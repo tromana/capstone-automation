@@ -80,8 +80,8 @@ def open_telnet_conn(ip,port):
     #Change exception message
     try:
         #Define telnet parameters
-        username = 'teopy'
-        password = 'python'
+        username = 'taman'
+        password = 'test'
         
         #Specify the Telnet port (default is 23, anyway)
         
